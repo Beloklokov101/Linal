@@ -4,6 +4,7 @@
 using namespace std;
 
 //ВЕКТОРЫ
+//Проверка коммита
 
 class Vector3D
 {
